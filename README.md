@@ -76,7 +76,7 @@ All the analysis is done based on Jobs Roles only in page 3
 
 ### Questions page 4
 
-All the analysis is done based on salary analysis only in page 3
+All the analysis is done based on salary analysis only in page 4
 
 1. Performance rating  based on jobrole
 2. count of year since last year
@@ -84,3 +84,10 @@ All the analysis is done based on salary analysis only in page 3
 4. Total year working based on job roles
 5. worklife balance since last promotion
 
+### Questions page 5
+
+All the analysis is done based on Jobs role and Attrition only in page 5
+
+1. Count of YearsSinceLastPromotion, StockOptionLevel and WorkLifeBalance by JobRole
+2. PerformanceRating, TotalWorkingYears, YearsWithCurrManager and YearsAtCompany by JobRole
+3. Employee count
