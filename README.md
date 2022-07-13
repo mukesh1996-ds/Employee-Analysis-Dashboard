@@ -38,3 +38,39 @@ https://drive.google.com/file/d/1sk0CxHrxjNx_8DfM8kGUwUp82Ove_HrU/view
 25. PerformanceRating : Preformance
 26. RelationshipSatisfaction : Relationship
 27. StandardHours : hrs
+
+
+### Questions page 1 
+
+All the analysis is done based on Attrition only in page1
+
+1. Count of age by business travel
+2. Count of age by eduction and business travel
+3. Age by gender
+4. Count of daily rate
+5. Count of eduction by dept and gender
+6. HoursRate per dept
+7. Max of DailyRate and Education by BusinessTravel
+
+### Questions page 2 
+
+All the analysis is done based on Education field only in page1
+
+1. Hours rated by jobrole and eduction field.
+2. Monthly income based on job role
+3. Count of employee based on Eduction field
+4. Eduction by eduction field
+5. EmployeeCount, JobLevel and EnvironmentSatisfaction by JobRole
+6. Job role
+
+### Questions page 3
+
+All the analysis is done based on Jobs Roles only in page 3
+
+1. Daily rate 
+2. count of hour rate
+3. Preformance rating by over time
+4. Percentage salary hike based on performance
+5. Total working hour by marital status
+6. Standard hours by department
+
