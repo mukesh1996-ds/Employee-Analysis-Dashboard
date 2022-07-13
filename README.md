@@ -74,3 +74,13 @@ All the analysis is done based on Jobs Roles only in page 3
 5. Total working hour by marital status
 6. Standard hours by department
 
+### Questions page 4
+
+All the analysis is done based on salary analysis only in page 3
+
+1. Performance rating  based on jobrole
+2. count of year since last year
+3. count of number of company worked
+4. Total year working based on job roles
+5. worklife balance since last promotion
+
